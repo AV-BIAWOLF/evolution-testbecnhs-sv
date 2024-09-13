@@ -1,0 +1,201 @@
+Time resolution is 1 ps
+'{data_in_2:0,data_out_2:0}
+'{data_in_2:5,data_out_2:0}
+Test 0 SUCCESS: data_out =   0, expected_data =   0
+'{data_in_2:1,data_out_2:0}
+Test 1 SUCCESS: data_out =   0, expected_data =   0
+'{data_in_2:3,data_out_2:1}
+Test 2 SUCCESS: data_out =   1, expected_data =   1
+'{data_in_2:7,data_out_2:1}
+Test 3 SUCCESS: data_out =   1, expected_data =   1
+'{data_in_2:0,data_out_2:2}
+Test 4 SUCCESS: data_out =   2, expected_data =   2
+'{data_in_2:4,data_out_2:4}
+Test 5 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:8,data_out_2:2}
+Test 6 SUCCESS: data_out =   2, expected_data =   2
+'{data_in_2:3,data_out_2:3}
+Test 7 SUCCESS: data_out =   3, expected_data =   3
+'{data_in_2:0,data_out_2:4}
+Test 8 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:7,data_out_2:3}
+Test 9 SUCCESS: data_out =   3, expected_data =   3
+'{data_in_2:10,data_out_2:3}
+Test 10 SUCCESS: data_out =   3, expected_data =   3
+'{data_in_2:0,data_out_2:4}
+Test 11 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:10,data_out_2:5}
+Test 12 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:2,data_out_2:4}
+Test 13 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:9,data_out_2:6}
+Test 14 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:6,data_out_2:5}
+Test 15 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:9,data_out_2:5}
+Test 16 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:6,data_out_2:6}
+Test 17 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:6,data_out_2:6}
+Test 18 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:4,data_out_2:7}
+Test 19 SUCCESS: data_out =   7, expected_data =   7
+'{data_in_2:8,data_out_2:6}
+Test 20 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:4,data_out_2:6}
+Test 21 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:10,data_out_2:6}
+Test 22 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:1,data_out_2:5}
+Test 23 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:9,data_out_2:6}
+Test 24 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:0,data_out_2:5}
+Test 25 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:5,data_out_2:6}
+Test 26 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:2,data_out_2:5}
+Test 27 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:4,data_out_2:3}
+Test 28 SUCCESS: data_out =   3, expected_data =   3
+'{data_in_2:10,data_out_2:4}
+Test 29 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:3,data_out_2:2}
+Test 30 SUCCESS: data_out =   2, expected_data =   2
+'{data_in_2:9,data_out_2:5}
+Test 31 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:10,data_out_2:4}
+Test 32 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:7,data_out_2:6}
+Test 33 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:8,data_out_2:8}
+Test 34 SUCCESS: data_out =   8, expected_data =   8
+'{data_in_2:1,data_out_2:7}
+Test 35 SUCCESS: data_out =   7, expected_data =   7
+'{data_in_2:2,data_out_2:8}
+Test 36 SUCCESS: data_out =   8, expected_data =   8
+'{data_in_2:0,data_out_2:6}
+Test 37 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:7,data_out_2:4}
+Test 38 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:3,data_out_2:2}
+Test 39 SUCCESS: data_out =   2, expected_data =   2
+'{data_in_2:3,data_out_2:2}
+Test 40 SUCCESS: data_out =   2, expected_data =   2
+'{data_in_2:4,data_out_2:3}
+Test 41 SUCCESS: data_out =   3, expected_data =   3
+'{data_in_2:2,data_out_2:3}
+Test 42 SUCCESS: data_out =   3, expected_data =   3
+'{data_in_2:5,data_out_2:4}
+Test 43 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:4,data_out_2:3}
+Test 44 SUCCESS: data_out =   3, expected_data =   3
+'{data_in_2:9,data_out_2:3}
+Test 45 SUCCESS: data_out =   3, expected_data =   3
+'{data_in_2:6,data_out_2:3}
+Test 46 SUCCESS: data_out =   3, expected_data =   3
+'{data_in_2:6,data_out_2:5}
+Test 47 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:0,data_out_2:6}
+Test 48 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:5,data_out_2:6}
+Test 49 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:7,data_out_2:5}
+Test 50 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:10,data_out_2:4}
+Test 51 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:10,data_out_2:4}
+Test 52 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:8,data_out_2:5}
+Test 53 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:5,data_out_2:8}
+Test 54 SUCCESS: data_out =   8, expected_data =   8
+'{data_in_2:9,data_out_2:8}
+Test 55 SUCCESS: data_out =   8, expected_data =   8
+'{data_in_2:2,data_out_2:8}
+Test 56 SUCCESS: data_out =   8, expected_data =   8
+'{data_in_2:8,data_out_2:8}
+Test 57 SUCCESS: data_out =   8, expected_data =   8
+'{data_in_2:8,data_out_2:6}
+Test 58 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:8,data_out_2:6}
+Test 59 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:5,data_out_2:6}
+Test 60 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:9,data_out_2:6}
+Test 61 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:2,data_out_2:7}
+Test 62 SUCCESS: data_out =   7, expected_data =   7
+'{data_in_2:3,data_out_2:7}
+Test 63 SUCCESS: data_out =   7, expected_data =   7
+'{data_in_2:2,data_out_2:6}
+Test 64 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:8,data_out_2:4}
+Test 65 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:6,data_out_2:4}
+Test 66 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:6,data_out_2:3}
+Test 67 SUCCESS: data_out =   3, expected_data =   3
+'{data_in_2:2,data_out_2:4}
+Test 68 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:8,data_out_2:5}
+Test 69 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:5,data_out_2:5}
+Test 70 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:3,data_out_2:5}
+Test 71 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:0,data_out_2:5}
+Test 72 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:0,data_out_2:4}
+Test 73 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:5,data_out_2:4}
+Test 74 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:0,data_out_2:2}
+Test 75 SUCCESS: data_out =   2, expected_data =   2
+'{data_in_2:3,data_out_2:2}
+Test 76 SUCCESS: data_out =   2, expected_data =   2
+'{data_in_2:6,data_out_2:1}
+Test 77 SUCCESS: data_out =   1, expected_data =   1
+'{data_in_2:10,data_out_2:2}
+Test 78 SUCCESS: data_out =   2, expected_data =   2
+'{data_in_2:5,data_out_2:3}
+Test 79 SUCCESS: data_out =   3, expected_data =   3
+'{data_in_2:5,data_out_2:4}
+Test 80 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:2,data_out_2:6}
+Test 81 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:3,data_out_2:6}
+Test 82 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:4,data_out_2:5}
+Test 83 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:7,data_out_2:3}
+Test 84 SUCCESS: data_out =   3, expected_data =   3
+'{data_in_2:1,data_out_2:3}
+Test 85 SUCCESS: data_out =   3, expected_data =   3
+'{data_in_2:9,data_out_2:4}
+Test 86 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:8,data_out_2:3}
+Test 87 SUCCESS: data_out =   3, expected_data =   3
+'{data_in_2:10,data_out_2:5}
+Test 88 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:8,data_out_2:6}
+Test 89 SUCCESS: data_out =   6, expected_data =   6
+'{data_in_2:8,data_out_2:7}
+Test 90 SUCCESS: data_out =   7, expected_data =   7
+'{data_in_2:2,data_out_2:8}
+Test 91 SUCCESS: data_out =   8, expected_data =   8
+'{data_in_2:5,data_out_2:8}
+Test 92 SUCCESS: data_out =   8, expected_data =   8
+'{data_in_2:6,data_out_2:7}
+Test 93 SUCCESS: data_out =   7, expected_data =   7
+'{data_in_2:6,data_out_2:5}
+Test 94 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:3,data_out_2:5}
+Test 95 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:10,data_out_2:4}
+Test 96 SUCCESS: data_out =   4, expected_data =   4
+'{data_in_2:3,data_out_2:5}
+Test 97 SUCCESS: data_out =   5, expected_data =   5
+'{data_in_2:1,data_out_2:6}
+Test 98 SUCCESS: data_out =   6, expected_data =   6
+$stop called at time : 203 ns : File "D:/RTL/moving_average_filter/moving_average_filter_test1/moving_average_filter_test
