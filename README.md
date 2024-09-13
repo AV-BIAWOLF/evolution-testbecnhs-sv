@@ -37,6 +37,8 @@ This is a more advanced testbench:
 - Uses a `mailbox` to pass data between the monitor and checker.
 - Implements a monitor to capture the input/output and a checking process to validate the results.
 - It also calculates the expected output dynamically based on the input data window, ensuring a thorough verification.
+  
+![Alt text](test3/waveform/waveform-3.png)
 
 These testbenches progressively add complexity, from simple checks to more sophisticated verification techniques with events, randomization, and monitoring.
  
