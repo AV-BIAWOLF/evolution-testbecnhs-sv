@@ -1,4 +1,4 @@
-# Moving Average Filter
+# Moving Average Filter (Practice writing a testbench)
 ## Overview
 This repository contains the RTL implementation and verification environment for a Moving Average Filter (MAF). A moving average filter is commonly used in digital signal processing to smooth a series of input data by calculating the average of a fixed number of previous inputs. This filter is useful in noise reduction and trend identification in various applications, such as data smoothing in communication systems.
 
