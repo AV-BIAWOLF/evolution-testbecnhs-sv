@@ -1,6 +1,5 @@
 `timescale 1ns / 1ps
 
-
 module moving_average_filter_test1 #(
     parameter N = 4, // Size of window
     parameter DATA_WIDTH = 8
